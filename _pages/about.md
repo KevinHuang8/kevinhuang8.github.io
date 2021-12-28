@@ -2,23 +2,28 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### About
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I am a final year undergraduate student at Caltech, studying computer science and machine learning. My research interests include reinforcement learning, planning, and optimization. Broadly, I am interested in developing end-to-end intelligent systems that continuously learn from their environment. I am fortunate to have worked with [Yisong Yue](http://www.yisongyue.com/) and [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, and [Pablo Moscato](https://www.newcastle.edu.au/profile/pablo-moscato) at the University of Newcastle.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div class="clearfix"></div>
+
+### Publications
+
+Kevin Huang, Sahin Lale, Ugo Rosalia, Yuanyuan Shi, and Anima Anandkumar. CEM-GD: Cross Entropy Method with Gradient Descent for Model Based Reinforcement Learning, 2021. Submitted to Learning for Dynamics & Control (L4DC). \
+\[[paper](https://arxiv.org/abs/2112.07746)\] \[[code](https://github.com/KevinHuang8/CEM-GD)\]
+
+Pablo Moscato, Mohammad Nazmul Haque, Kevin Huang, Julia Sloan, and Jonathon Corrales de Olivera. Learning to extrapolate using continued fractions: Predicting the critical temperature of superconductor materials, 2021. Submitted to IEEE Transactions on Artificial Intelligence. \
+\[[paper](https://arxiv.org/abs/2012.03774)\]
