@@ -25,7 +25,7 @@ Previously, I completed my undergrad at Caltech and am fortunate to have worked 
 
 ### Publications and Manuscripts
 
-Jake Sacks, Rick Rana, **Kevin Huang**, Alex Spitzer, Guanya Shi, Byron Boots. Deep Model Predictive Optimization. Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2023. \
+Jake Sacks, Rwik Rana, **Kevin Huang**, Alex Spitzer, Guanya Shi, Byron Boots. Deep Model Predictive Optimization. Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2023. \
 \[[paper](https://arxiv.org/abs/2310.04590)\]
 
 **Kevin Huang**, Rwik Rana, Alex Spitzer, Guanya Shi, Byron Boots. DATT: Deep adaptive trajectory tracking for quadrotor control. Conference on Robot Learning (CoRL) 2023. <span style="color:red">(oral presentation, 6.6% acceptance rate)</span> \
