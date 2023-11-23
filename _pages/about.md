@@ -31,7 +31,7 @@ Jake Sacks, Rick Rana, **Kevin Huang**, Alex Spitzer, Guanya Shi, Byron Boots. D
 **Kevin Huang**, Rwik Rana, Alex Spitzer, Guanya Shi, Byron Boots. DATT: Deep adaptive trajectory tracking for quadrotor control. Conference on Robot Learning (CoRL) 2023. <span style="color:red">(oral presentation, 6.6% acceptance rate)</span> \
 \[[paper](https://arxiv.org/abs/2310.09053)\] \[[website](https://sites.google.com/view/deep-adaptive-traj-tracking)\] \[[code](https://github.com/KevinHuang8/DATT)\] 
 
-Jermey Bernstein*, Chris Mingard*, **Kevin Huang**, Navid Azizan, Yisong Yue. Automatic Gradient Descent: Deep Learning without Hyperparameters. 2023. \
+Jermey Bernstein\*, Chris Mingard\*, **Kevin Huang**, Navid Azizan, Yisong Yue. Automatic Gradient Descent: Deep Learning without Hyperparameters. 2023. \
 \[[paper](https://arxiv.org/abs/2304.05187)\]
 
 **Kevin Huang**, Sahin Lale, Ugo Rosalia, Yuanyuan Shi, and Anima Anandkumar. CEM-GD: Cross Entropy Method with Gradient Descent for Model Based Reinforcement Learning, 2021. \
