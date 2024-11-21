@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ### About
 
-Hi! I am a second-year PhD student at the University of Washington, advised by [Byron Boots](https://homes.cs.washington.edu/~bboots/), researching robotics, machine learning, and optimal control. Broadly, I am interested in developing end-to-end intelligent, embodied systems that continuously learn from their environment, as well as robust control and planning in uncertain and dynamic environments.  
+Hi! I am a second-year PhD student at the University of Washington, advised by [Byron Boots](https://homes.cs.washington.edu/~bboots/) and [Abhishek Gupta](https://abhishekunique.github.io/), researching robotics, machine learning, and optimal control. Broadly, I am interested in developing end-to-end intelligent, embodied systems that continuously learn from their environment, as well as robust control and planning in uncertain and dynamic environments.  
 
 
 Previously, I completed my undergrad at Caltech and am fortunate to have worked with [Yisong Yue](http://www.yisongyue.com/) and [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, and [Pablo Moscato](https://www.newcastle.edu.au/profile/pablo-moscato) at the University of Newcastle.
