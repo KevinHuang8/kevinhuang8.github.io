@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -17,8 +17,6 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-### About
 
 Hi! I am a second-year PhD student at the University of Washington, advised by [Byron Boots](https://homes.cs.washington.edu/~bboots/) and [Abhishek Gupta](https://abhishekunique.github.io/), researching robotics, machine learning, and optimal control. Broadly, I am interested in developing end-to-end intelligent, embodied systems that continuously learn from their environment, as well as robust control and planning in uncertain and dynamic environments.  
 
