@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Download my CV
+description: View my CV
 nav: true
 nav_order: 3
 ---
@@ -10,56 +10,32 @@ nav_order: 3
 <!-- _pages/cv.md -->
 
 <div class="cv-container">
-  <div class="text-center">
-    <h1>Curriculum Vitae</h1>
-    <p>Click the button below to download my CV in PDF format.</p>
-    
-    <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}" 
-       class="btn btn-primary btn-lg" 
-       target="_blank" 
-       rel="noopener noreferrer">
-      <i class="fas fa-download"></i> Download CV (PDF)
-    </a>
-  </div>
+  <iframe src="{{ '/assets/pdf/CV.pdf' | relative_url }}" 
+          width="100%" 
+          height="800px" 
+          style="border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p>Your browser does not support PDFs. 
+       <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}" target="_blank">Download the CV instead</a>.
+    </p>
+  </iframe>
 </div>
 
 <style>
 .cv-container {
   padding: 2rem 0;
-  min-height: 60vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
-.cv-container h1 {
-  margin-bottom: 1rem;
-  color: var(--global-text-color);
+@media (max-width: 768px) {
+  .cv-container iframe {
+    height: 600px;
+  }
 }
 
-.cv-container p {
-  margin-bottom: 2rem;
-  color: var(--global-text-color-light);
-  font-size: 1.1rem;
-}
-
-.btn-primary {
-  background-color: var(--global-theme-color);
-  border-color: var(--global-theme-color);
-  padding: 0.75rem 2rem;
-  font-size: 1.1rem;
-  border-radius: 0.5rem;
-  transition: all 0.3s ease;
-}
-
-.btn-primary:hover {
-  background-color: var(--global-hover-color);
-  border-color: var(--global-hover-color);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
-
-.btn-primary i {
-  margin-right: 0.5rem;
+@media (max-width: 480px) {
+  .cv-container iframe {
+    height: 500px;
+  }
 }
 </style>
